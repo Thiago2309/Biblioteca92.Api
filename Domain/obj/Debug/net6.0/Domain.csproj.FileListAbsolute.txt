@@ -1,0 +1,14 @@
+C:\Users\lolle\source\repos\WebApplication92\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\lolle\source\repos\WebApplication92\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\lolle\source\repos\WebApplication92\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\lolle\source\repos\WebApplication92\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\lolle\source\repos\WebApplication92\Domain\obj\Debug\net6.0\ref\Domain.dll
